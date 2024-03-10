@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="w-full h-[100vh] flex flex-col items-center justify-center bg-zinc-900 gap-4">
+    <main className="w-full h-[100vh] flex flex-col items-center justify-center bg-zinc-900 gap-4 text-center">
       <p className="text-white text-7xl">En construction</p>
       <div className="flex flex-row items-center justify-center gap-1">
         <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" fill="white" viewBox="0 0 16 16">
